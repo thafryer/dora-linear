@@ -7,7 +7,7 @@
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic-staging": "CHROMATIC_INDEX_URL=https://index.staging-chromatic.com npx chromatic --project-token=75e7141a9656 --force-rebuild",
+    "chromatic-staging": "CHROMATIC_INDEX_URL=https://index.staging-chromatic.com npx chromatic --project-token=5c26b3841364 --force-rebuild",
     "chromatic-dev": "CHROMATIC_INDEX_URL=https://index.dev-chromatic.com npx chromatic --project-token=13fef0534f71 --force-rebuild",
     "chromatic": "npx chromatic --project-token=2d35fe46fca7"
   },

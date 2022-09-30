@@ -19,6 +19,6 @@ jobs:
         # Chromatic GitHub Action options
         with:
           # 👇 Chromatic projectToken, refer to the manage page to obtain it.
-          projectToken: 75e7141a9656
+          projectToken: 5c26b3841364
         env:
           CHROMATIC_INDEX_URL: https://index.staging-chromatic.com
