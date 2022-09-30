@@ -21,7 +21,7 @@ export const Primary = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Primary.args = {
   primary: true,
-  label: "Button",
+  label: "Button Testing",
 };
 Primary.play = async ({ args, canvasElement }) => {
   const canvas = within(canvasElement);
